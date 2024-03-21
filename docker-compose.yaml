@@ -5,7 +5,7 @@ services:
     container_name: lookcut
     build: .
     ports:
-      - "8082:8082"  # Reenvío del puerto 8081 para la app
+      - "8082:8082"  # Reenvío del puerto 8082 para la app
       - "5555:5554"  # Reenvío del puerto 5544 para la comunicación ADB
     privileged: true
     volumes:
