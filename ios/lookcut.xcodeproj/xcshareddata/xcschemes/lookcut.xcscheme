@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "prueba_pablo.app"
-               BlueprintName = "prueba_pablo"
-               ReferencedContainer = "container:prueba_pablo.xcodeproj">
+               BuildableName = "lookcut.app"
+               BlueprintName = "lookcut"
+               ReferencedContainer = "container:lookcut.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "prueba_pabloTests.xctest"
-               BlueprintName = "prueba_pabloTests"
-               ReferencedContainer = "container:prueba_pablo.xcodeproj">
+               BuildableName = "lookcutTests.xctest"
+               BlueprintName = "lookcutTests"
+               ReferencedContainer = "container:lookcut.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "prueba_pablo.app"
-            BlueprintName = "prueba_pablo"
-            ReferencedContainer = "container:prueba_pablo.xcodeproj">
+            BuildableName = "lookcut.app"
+            BlueprintName = "lookcut"
+            ReferencedContainer = "container:lookcut.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "prueba_pablo.app"
-            BlueprintName = "prueba_pablo"
-            ReferencedContainer = "container:prueba_pablo.xcodeproj">
+            BuildableName = "lookcut.app"
+            BlueprintName = "lookcut"
+            ReferencedContainer = "container:lookcut.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
