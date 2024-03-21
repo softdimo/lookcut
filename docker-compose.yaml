@@ -2,7 +2,7 @@ version: "3"  # Actualización de la versión
 
 services:
   app:
-    container_name: react-native-app
+    container_name: lookcut
     build: .
     ports:
       - "8081:8081"  # Reenvío del puerto 8081 para la app
