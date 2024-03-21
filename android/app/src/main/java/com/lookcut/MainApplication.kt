@@ -1,4 +1,4 @@
-package com.prueba_pablo
+package com.lookcut
 
 import android.app.Application
 import com.facebook.react.PackageList
